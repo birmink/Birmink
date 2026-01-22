@@ -27,9 +27,9 @@ Most projects are in **Python**, but I’m expanding into **C++, Java, and more*
 
 | Project | Description | Repo Link |
 |---------|-------------|-----------|
+| Rubik’s Cube Visualizer & Solver | Interactive 3D Rubik’s Cube solver with animations | [GitHub](https://github.com/birmink/Rubik-s-Cube-Solver) |
 | DFA Evaluator | Evaluate Deterministic Finite Automata from input strings | [GitHub](https://github.com/birmink/dfa-evaluator) |
 | Thread-Safe Bank Account | Multithreading and locks demo in Python | [GitHub](https://github.com/birmink/thread-safe-bank-account) |
-| Rubik’s Cube Visualizer & Solver | Interactive 3D Rubik’s Cube solver with animations | [GitHub](https://github.com/birmink/rubix-cube-solver) |
 | Secure Chat | Encrypted chat application demonstrating networking and security concepts | [GitHub](https://github.com/birmink/secure-chat) |
 
 *(More projects coming as I explore additional languages!)*
